@@ -1,3 +1,3 @@
-# coding_study_ewha
+# _Coding Study 2021_
 
-
+### Introduction
