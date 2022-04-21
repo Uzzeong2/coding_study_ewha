@@ -1,3 +1,10 @@
-# _Coding Study 2021_
+# _Algorithm Seminar 2021_
 
 ### Introduction
+
+
+
+### Seminar Curriculum
+
+
+### Rules
