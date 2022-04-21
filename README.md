@@ -5,26 +5,16 @@
 
 모두 10주 간 세션 듣느라 (과제 하시느라) 고생 많으셨습니다! 😬 
 
-앞으로 두 달 동안은 **함께 공부하는 입장**이 되어 세미나를 진행하게 됩니다.
-
-투빅스 13기 친구들도 자연어처리에 대한 지식이 많지 않기 때문에 다 같이 함께 열심히 공부했으면 좋겠습니다!
-
 <br>
 
-#### ✔️ CS224n: Natural Language Processing with Deep Learning
-Stanford University의 [**CS224n winter 2019**](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) 커리큘럼을 따라 세미나가 진행됩니다.        
-
-다만, 그동안 배웠던 내용을 충분히 숙지하지 못한 채 낯선 자연어처리 공부를 하게 되면 어렵기 때문에 
-[**0주차 강의**](https://www.edwith.org/deepnlp/joinLectures/17363)를 추가하였습니다.
-> 세계적으로 유명한 조경현 교수님의 자연어처리 강의입니다. **Chapter B**까지 들으시고 그동안 배웠던 내용을 가볍게 Remind하시면 됩니다. 0주차 강의에 별도의 과제는 없으며, 강제성도 없지만 앞으로 배울 내용이 쉽지 않은 만큼 기초 공부를 한 번 더 하시는 것을 권합니다.
-
+#### 📖 Required Material: [이것이 취업을 위한 코딩테스트다](http://image.yes24.com/goods/91433923/XL)
+추가하였습니다.
+> 세계적으로 유명한 
 <br>
 
 추가적인 내용은 [**노션**](https://www.notion.so/d32d0a389375415884ac879b6e037f11)을 통해 확인해 주시길 바랍니다.    
 
-**세미나 강의자료** 및 **블로그 리뷰**, **CS224n 강의영상**은 하단에 링크가 첨부되어 있습니다.       
-
-**과제물**을 확인하시려면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/Assignment)를 참고해주세요.
+**스터디 자료** 및 **스터디 내용**은 하단에 링크가 첨부되어 있습니다.       
 <br/>
 
 <br>
