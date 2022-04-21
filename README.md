@@ -22,21 +22,22 @@
 ### 2. Seminar Curriculum
 
 | Week | Topic | Files | Review |
-|:------:|:-------------------------------------------------:|:------:|:------:
-| 1 | Introduction to Greedy Algorithm | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week1/CS224n_Lecture1.pdf) |  |
-| 2 | Extended problem solving using Greedy Algorithm | [File](https://github.com/Tobigs-team/blob/master/Slides/week1/CS224n_Lecture2.pdf) | |
-| 3 | Introduction to Implementation Algorithm | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week2/CS224N_lecture3.pdf) |  | 
-| 4 | Extended problem solving using Implementation Algorithm | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week2/CS224n_Lecture4.pdf) |  | 
-| 5 | Extended problem solving using Implementation Algorithm 2 | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week3/CS224n_Lecture5.pdf) |  | 
-| 6 | Introduction to DFS/BFS Algorithm and Problem Solving | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week3/CS224n_Lecture6.pdf) |  | 
-| 7 | Introduction to Sorting Algorithm and Problem Solving | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week4/CS224N_Lecture7.pdf) |  | 
-| 8 | Introduction to Binary Search and Problem Solving | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week4/CS224n_Lecture8.pdf) |  | 
-| 9 | Introduction to Dynamic Programming and Problem Solving | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week5/CS224n_Lecture9.pdf) |  | 
-| 10 | Introduction to Dijkstra/Floyd Warshall Algorithm and Problem Solving | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week5/CS224n_Lecture10.pdf) |  | 
-| 11 | Introduction to Graph Theory | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week6/CS224N_Lecture11.pdf) |  | 
-| 12 | Extended problem solving using Graph Theory | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week6/CS224n_Lecture12.pdf) |  |  
-| 13 | Additional problem solving : sample questions from previous Samsung Electronics coding exam | [File](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week6/CS224n_Lecture13.pdf) |  | 
+|:------:|:------------------------------------------:|:------:|:------:|
+| 1 | Introduction to Greedy Algorithm | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/1-Greedy-Algorithm(1)_coding-study.ipynb) |  |
+| 2 | Extended problem solving using Greedy Algorithm | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/2-Greedy-Algorithm(2)_coding-study.ipynb) | |
+| 3 | Introduction to Implementation Algorithm | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/3-Implementation-Algorithm(1)_coding-study.ipynb) |  | 
+| 4 | Extended problem solving using Implementation Algorithm | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/4-Implementation-Algorithm(2)_coding-study.ipynb) |  | 
+| 5 | Extended problem solving using Implementation Algorithm 2 | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/5-Implementation-Algorithm(3)_coding-study.ipynb) |  | 
+| 6 | Introduction to DFS/BFS Algorithm and Problem Solving | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/6-DFS-BFS_coding-study.ipynb) |  | 
+| 7 | Introduction to Sorting Algorithm and Problem Solving | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/7-Sorting-Algorithm_coding-study.ipynb) |  | 
+| 8 | Introduction to Binary Search and Problem Solving | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/8-Binary-search_coding-study.ipynb) |  | 
+| 9 | Introduction to Dynamic Programming and Problem Solving | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/9-Dynamic-Programming_coding-study.ipynb) |  | 
+| 10 | Introduction to Dijkstra/Floyd Warshall Algorithm and Problem Solving | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/10-Dijkstra-Floyd%20Warshall_coding-study.ipynb) |  | 
+| 11 | Introduction to Graph Theory | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/11-Graph-theory(1)_coding-study.ipynb) |  | 
+| 12 | Extended problem solving using Graph Theory | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/12-Graph-theory(2)_coding-study.ipynb) |  |  
+| 13 | Additional problem solving : sample questions from previous Samsung Electronics coding exam | [File](https://github.com/tingting919/coding_study_ewha/blob/main/YJ/Samsung-Electronics_coding-test_%EA%B5%AC%EC%8A%AC%20%ED%83%88%EC%B6%9C%202%20%26%202048.ipynb) |  | 
 <br/>
+
 
 <br>
 
